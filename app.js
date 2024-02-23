@@ -9,4 +9,3 @@ app.get('/', (req, res) => {
 
 // Export the Express application instance
 module.exports = app;
-
